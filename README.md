@@ -10,15 +10,23 @@ Data Storage
 
   -- Amazon S3
   
+
 Data Processing
+
   -- Apache Spark
+
   -- Python, SparkSQL
 
+
 Data Movement
-  -- Apache Sqoop
+
+-- Apache Sqoop
+
 
 Data Presentation  
+
   -- MySQL
+
   -- WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture

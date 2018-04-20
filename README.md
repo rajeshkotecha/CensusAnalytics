@@ -38,6 +38,7 @@ MySQL
 WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture
-![System Architecture][arch1]
 
 [arch1]: https://drive.google.com/file/d/1RRiy5cuE8giah56jjyWD8JmlAcOvRXjQ/view?usp=sharing "System Architecture"
+
+![System Architecture][arch1]

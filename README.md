@@ -40,4 +40,4 @@ WebUI (HTML, CSS, JQuery)
 # Proposed Architecture
 ![System Architecture][arch1]
 
-[arch1]: https://drive.google.com/file/d/1pXJrWJ1CA_BY35nu0kPHBY1q2Aw3TyAP/view?usp=sharing "System Architecture"
+[arch1]: https://drive.google.com/file/d/1RRiy5cuE8giah56jjyWD8JmlAcOvRXjQ/view?usp=sharing "System Architecture"

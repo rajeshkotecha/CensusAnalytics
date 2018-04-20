@@ -38,3 +38,6 @@ MySQL
 WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture
+
+
+

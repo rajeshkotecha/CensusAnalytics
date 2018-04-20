@@ -7,6 +7,7 @@ Using US Census and local business data calculate various metrics that will help
 
 # Technologies 
 Amazon S3
+
 Apache Spark
 Python, SparkSQL
 Apache Sqoop

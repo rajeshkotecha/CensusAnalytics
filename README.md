@@ -6,27 +6,11 @@ Using US Census and local business data calculate various metrics that will help
 
 
 # Technologies 
-Data Storage
-
-  -- Amazon S3
-  
-
-Data Processing
-
-  -- Apache Spark
-
-  -- Python, SparkSQL
-
-
-Data Movement
-
--- Apache Sqoop
-
-
-Data Presentation  
-
-  -- MySQL
-
-  -- WebUI (HTML, CSS, JQuery)
+Amazon S3
+Apache Spark
+Python, SparkSQL
+Apache Sqoop
+MySQL
+WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture

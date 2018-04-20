@@ -37,6 +37,6 @@ MySQL
 
 WebUI (HTML, CSS, JQuery)
 
-# Proposed Architecture
+# Proposed Architecture 
 
 ![System Architecture](Insight-Project-Architecture.jpg)

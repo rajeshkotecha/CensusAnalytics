@@ -38,6 +38,6 @@ MySQL
 WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture
-
+![Alt text][arch]
 
 

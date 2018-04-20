@@ -9,9 +9,13 @@ Using US Census and local business data calculate various metrics that will help
 Amazon S3
 
 Apache Spark
+
 Python, SparkSQL
+
 Apache Sqoop
+
 MySQL
+
 WebUI (HTML, CSS, JQuery)
 
 # Proposed Architecture
